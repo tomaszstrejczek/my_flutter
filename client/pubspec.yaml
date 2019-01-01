@@ -21,6 +21,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   flutter_gallery_assets: ^0.1.7
   material_design_icons_flutter: ^3.0.3289
+  flutter_simple_dependency_injection: any
 
 dev_dependencies:
   flutter_test:
